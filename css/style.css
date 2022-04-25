@@ -38,3 +38,9 @@ h2{
     animation-iteration-count: infinite;
     animation-delay: 2s;
 }
+
+@keyframes animacion {
+    0%{
+        font-size: 40px;
+    }
+}
